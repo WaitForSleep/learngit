@@ -1,6 +1,6 @@
 Git is a version control system.
 Git is a free software.
-Git is nice.
+Git is a nice tool.
 Git study road.
 
 
